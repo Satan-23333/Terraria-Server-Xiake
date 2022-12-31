@@ -25,7 +25,7 @@
 #remove the # in front of commands to enable them.
 
 #Load a world and automatically start the server.
-world=/workspaces/Terraria-Server-Xiake/Linux/world/ruozhi.wld
+world=./world/ruozhi.wld
 
 #Creates a new world if none is found. World size is specified by: 1(small), 2(medium), and 3(large).
 #autocreate=1
@@ -52,7 +52,7 @@ port=7777
 motd=1145141919810
 
 #Sets the folder where world files will be stored
-worldpath=/workspaces/Terraria-Server-Xiake/Linux/world
+worldpath=./world
 
 #Sets the number of rolling world backups to keep
 #worldrollbackstokeep=2
